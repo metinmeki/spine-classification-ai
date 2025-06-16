@@ -4,7 +4,7 @@ This project uses a deep learning model (ResNet50) to classify spine X-ray image
 
 ## 🎬 Project Demo
 
-[![Watch the demo](https://img.youtube.com/vi/m1xGVXWj2hg/0.jpg)](https://youtu.be/m1xGVXWj2hg)
+[![Watch the demo](https://img.youtube.com/vi/m1xGVXWj2hg/0.jpg)](https://www.youtube.com/watch?v=tAqGr0LSp1s)
 
 > 📺 Click the image above to watch a 1-minute demo of the project in action.
 
